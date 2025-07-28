@@ -19,6 +19,7 @@ Objects/
 *.uvoptx
 *.uvprojx
 *.uvgui.*
+*.uvguix*
 *.dep
 *.sdf
 *.suo
