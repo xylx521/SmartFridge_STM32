@@ -1,6 +1,6 @@
 # 编译生成目录
 Listings/
-Object/
+Objects/
 *.o
 *.d
 *.elf
