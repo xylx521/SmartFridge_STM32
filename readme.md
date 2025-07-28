@@ -4,6 +4,7 @@
 
 ## 🧱 项目结构
 
+```text
 ├── Hardware/ # 外设驱动封装 (OLED, Relay, Buzzer, WiFi, etc.)
 ├── Library/ # STM32 标准外设库文件
 ├── Listings/ # 编译生成的汇编文件等
@@ -12,6 +13,8 @@
 ├── System/ # 系统支持文件 (clock, delay, timer 等)
 ├── User/ # 主函数及用户逻辑代码
 └── README.md # 项目说明文档
+```
+
 
 
 
