@@ -1,0 +1,22 @@
+# 编译生成目录
+Listings/
+Object/
+*.o
+*.d
+*.elf
+*.map
+*.hex
+*.bin
+
+# IDE 相关配置
+*.uvoptx
+*.uvprojx
+*.dep
+*.sdf
+*.suo
+*.user
+*.DS_Store
+*.log
+
+# 不上传的临时测试文件夹
+DebugConfig/
